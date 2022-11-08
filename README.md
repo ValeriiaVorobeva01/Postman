@@ -1,6 +1,4 @@
-### Postman
-
-#### Place ID HW.postman_collection.json 
+#### [Place ID HW.postman_collection.json]
 Aтрибуты документации:
 
 ❇️ Base URL:  https://rahulshettyacademy.com    
@@ -14,7 +12,7 @@ PUT Resource: /maps/api/place/update/json
 
 DELETE Resource: /maps/api/place/delete/json
 
-#### Postman HW.postman_collection.json
+#### [Postman HW.postman_collection.json]
 Aтрибуты документации:
 
 ❇️ Base URL: http://162.55.220.72:5005
